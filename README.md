@@ -1,2 +1,2 @@
 # image_captioning
-End to end model to get characteristics and image descriptions
+End to end model to get image descriptions
